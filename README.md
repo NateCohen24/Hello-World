@@ -3,10 +3,10 @@ First repository
 ## Heading 1
 ## Table of Contents
 *About Me* 
-< Project Title > 
-< Description >
-< Tools Used >
-< Contact >
+<Project Title> 
+<Description>
+<Tools Used>
+<Contact>
 
 ### Project Title
 
