@@ -3,7 +3,7 @@ First repository - Sample README.md file
 
 ## Table of Contents
 
-<ins>Project Title</ins> 
+[Project Title](#project-title).
 
 <ins>Description<ins>
 
