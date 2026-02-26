@@ -1,6 +1,6 @@
 # Hello-World
-First repository
-## Heading 1
+First repository - Sample README.md file
+
 ## Table of Contents
 
 *About Me*
