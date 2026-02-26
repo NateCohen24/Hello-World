@@ -13,16 +13,16 @@ First repository
 
 <ins>Contact</ins>
 
-### Project Title
+## Project Title
 First Repository Sample
 
 
 
-### Description
+## Description
 Practice using Github repositories using different functions and syntax options
 
 
-### Syntax Options
+## Syntax Options
 **Bold**
 
 *Italic*
@@ -31,7 +31,7 @@ Practice using Github repositories using different functions and syntax options
 
 ~strikthrough~ 
 
-### Contact Info
+## Contact Info
 Email: ncohen4@uiowa.edu
 
 [LinkedIn](https://www.linkedin.com/in/nathanmcohen/)
