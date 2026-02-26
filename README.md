@@ -3,15 +3,13 @@ First repository - Sample README.md file
 
 ## Table of Contents
 
-*About Me*
-
 <ins>Project Title</ins> 
 
 <ins>Description<ins>
 
-<ins>Tools Used<ins>
+<ins>Syntax Options<ins>
 
-<ins>Contact</ins>
+<ins>Contact Info</ins>
 
 ## Project Title
 First Repository Sample
